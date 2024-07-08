@@ -7,7 +7,7 @@
 
 [Toggle Button animation](https://www.figma.com/proto/w3IqyLkGGzaU6wxjvwG269/Untitled?page-id=0%3A1&node-id=5-93&viewport=581%2C-633%2C0.38&t=BalYozBZogDgeg69-1&scaling=min-zoom&content-scaling=fixed)
 
-[ticket payment system](https://www.figma.com/design/uO2ajFzitPiWadcuAiXkgN/ticket-payment-system?node-id=0-1&t=criwjhCxWLRPErQ6-1)
+[ticket payment system](https://www.figma.com/proto/uO2ajFzitPiWadcuAiXkgN/day-3%2F50?page-id=0%3A1&node-id=117-1284&viewport=347%2C103%2C0.09&t=0fGLcbnpNVQ4RskK-1&scaling=contain&content-scaling=fixed)
 
 [animation #1](https://www.figma.com/proto/UnWYq2X1d44ugvaL1owrDi/Project?page-id=55%3A2&node-id=56-86&viewport=527%2C-135%2C0.05&t=UPNSOMEBcgu61rAb-1&scaling=contain&content-scaling=fixed)
 
