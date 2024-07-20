@@ -15,6 +15,8 @@
 
 [animation #3](https://www.figma.com/proto/pJU6PBkbGjbONKqTHqtG5i/power-off?page-id=4%3A5&node-id=4-100&viewport=592%2C372%2C0.25&t=gayYf2nSr8eVndKv-1&scaling=scale-down&content-scaling=fixed)
 
+[Mini website](https://www.figma.com/proto/6RsbAUtWqRTk2bT8cWPdvK/Interview-Assignment?page-id=0%3A1&node-id=30-3598&viewport=580%2C383%2C0.02&t=GDHtoxkOLY2MNJCD-1&scaling=contain&content-scaling=fixed)
+
 [product display page/animation #1](https://www.figma.com/proto/w3IqyLkGGzaU6wxjvwG269/Untitled?page-id=70%3A12&node-id=71-244&viewport=393%2C241%2C0.03&t=w4BCw7gQZtnmx97k-1&scaling=contain&content-scaling=fixed)
 
 [product display page/animation #2](https://www.figma.com/proto/fbK1913iTUhqHOA5KBEBbD/irctc?page-id=18%3A35&node-id=18-215&viewport=360%2C252%2C0.11&t=HISAd0moLd0ejt1K-1&scaling=scale-down&content-scaling=fixed)
